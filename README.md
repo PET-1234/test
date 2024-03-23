@@ -6,5 +6,3 @@ asaa
 asdasdasd
 asdasd
 
-
-ㅁㄴㅇㅁ
