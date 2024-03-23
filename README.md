@@ -6,5 +6,3 @@ pull_request
 asaa
 asdasdasd
 asdasd
-
-asd
